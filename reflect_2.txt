@@ -1,3 +1,5 @@
 ok, so after using <<git init>> to create a git repository,
-that's a new one !!!
 we need to use <<git add>> to add files to track by that git repo.
+
+before doing a commit, one can 'add' or remove files from the staging area.
+This is more flexible and give control over what to commit or not.
