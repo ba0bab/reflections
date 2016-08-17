@@ -3,3 +3,6 @@ we need to use <<git add>> to add files to track by that git repo.
 
 before doing a commit, one can 'add' or remove files from the staging area.
 This is more flexible and give control over what to commit or not.
+
+branches:
+useful for doing experimental new features, or major modifications to work on in parrallel to the master branch. eg: language versioning.
